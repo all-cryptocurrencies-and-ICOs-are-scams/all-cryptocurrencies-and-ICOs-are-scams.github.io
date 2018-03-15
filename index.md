@@ -1,37 +1,30 @@
+
+"All cryptocurrencies and ICOs are scams" does intentionally sound too strong.
+Especially in Spring of 2018 when blockchain buzz in the highest point.
+
+Of course, not all cryptocurrencies and not completely will lead to loosing money.
+It is that the voice of those promoting use of cryptocurrencies is so loud, that 
+there should be place to reference all contra-arguments and words of caution.
+
+## Coin minting
+
+In an economy adding new money would be tax to all as more money for the same goods will give inflation.
+Yet BitCoins and other have been on the rise.
+
+## ICOs
+
+ICO should be the clearest case of fraud, as new virtual currencies are not supported by current real value,
+but prospects and promises.
+And "tide rises all boats".
+
+## Links
+
+- The Rise of Cryptocurrency Ponzi Schemes https://www.theatlantic.com/technology/archive/2017/05/cryptocurrency-ponzi-schemes/528624/
+
+
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/all-cryptocurrencies-and-ICOs-are-scams/all-cryptocurrencies-and-ICOs-are-scams.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can [edit on GitHub](https://github.com/all-cryptocurrencies-and-ICOs-are-scams/all-cryptocurrencies-and-ICOs-are-scams.github.io/edit/master/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/all-cryptocurrencies-and-ICOs-are-scams/all-cryptocurrencies-and-ICOs-are-scams.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
