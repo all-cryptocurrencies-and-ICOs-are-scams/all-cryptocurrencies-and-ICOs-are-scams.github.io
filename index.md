@@ -6,7 +6,7 @@ Of course, not all cryptocurrencies and not completely will lead to loosing mone
 It is that the voice of those promoting use of cryptocurrencies is so loud, that 
 there should be place to reference all contra-arguments and words of caution.
 
-## Coin minting
+## Coin mining
 
 In an economy adding new money would be tax to all as more money for the same goods will give inflation.
 Yet BitCoins and other have been on the rise.
@@ -15,7 +15,9 @@ Yet BitCoins and other have been on the rise.
 
 ICO should be the clearest case of fraud, as new virtual currencies are not supported by current real value,
 but prospects and promises.
-And "tide rises all boats".
+And "tide rises all boats", while there are people willing to invest into cryptocurrencies
+any new offereing can bring some money. 
+(And that is why many people are busy with thinking up a new way to justify use of cryptocurrencies.)
 
 ## Links
 
