@@ -21,7 +21,7 @@ any new offereing can bring some money.
 
 ## Links
 
-- The Rise of Cryptocurrency Ponzi Schemes https://www.theatlantic.com/technology/archive/2017/05/cryptocurrency-ponzi-schemes/528624/
+- The Rise of Cryptocurrency Ponzi Schemes <https://www.theatlantic.com/technology/archive/2017/05/cryptocurrency-ponzi-schemes/528624/>
 
 
 
