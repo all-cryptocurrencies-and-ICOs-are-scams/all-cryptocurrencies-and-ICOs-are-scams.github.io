@@ -22,7 +22,7 @@ any new offereing can bring some money.
 ## Links
 
 - The Rise of Cryptocurrency Ponzi Schemes <https://www.theatlantic.com/technology/archive/2017/05/cryptocurrency-ponzi-schemes/528624/>
-
+- To create, push and sell a shitcoin in 5 easy steps. https://66shitcoins.com/blog/2018/2/6/to-create-push-and-sell-a-shitcoin-in-5-easy-steps
 
 
 ## Welcome to GitHub Pages
